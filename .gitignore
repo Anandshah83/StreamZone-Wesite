@@ -1,0 +1,4 @@
+package.json
+src/
+node_modules/
+vite.config.js
