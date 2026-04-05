@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import Videos from './Videos'
 import ChannelCard from './ChannelCard'
-import { fetchFromAPI } from "../utils/fetchFromAPI";
+import { fetchFromAPI } from "../utils/FetchFromAPI";
 
 const ChannelDetail = () => {
   const [videos, setVideos] = useState(null);
