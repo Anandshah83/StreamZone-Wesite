@@ -1,4 +1,4 @@
-# YouTube_Clone_ReactJS
+# StreamZone 
 
 This project is a YouTube clone built with React.js, designed to replicate the core features of the popular video-sharing platform. It leverages third-party APIs to fetch and display video data, enabling users to search, view, and explore videos seamlessly. The application includes essential components such as a top navigation bar, search functionality, video detail pages, and category browsing.
 
